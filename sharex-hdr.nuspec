@@ -3,7 +3,7 @@
   <metadata>
     <id>sharex-hdr</id>
     <version>21.0.6</version>
-    <packageSourceUrl>https://github.com/GotoFinal/ShareX-HDR</packageSourceUrl>
+	<packageSourceUrl>https://github.com/paradonym/sharex-hdr-chocolatey</packageSourceUrl>
     <owners>paradonym</owners>
     <title>ShareX-HDR</title>
     <authors>GotoFinal, ShareX Team</authors>
