@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>sharex-hdr</id>
+    <version>21.0.6</version>
+    <packageSourceUrl>https://github.com/GotoFinal/ShareX-HDR</packageSourceUrl>
+    <owners>paradonym</owners>
+    <title>ShareX-HDR</title>
+    <authors>GotoFinal, ShareX Team</authors>
+    <projectUrl>https://github.com/GotoFinal/ShareX-HDR</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/GotoFinal/ShareX-HDR@v21.0.6-hdr/ShareX.HelpersLib/Resources/ShareX_Logo.png</iconUrl>
+    <copyright>2025 GotoFinal, ShareX Team</copyright>
+    <licenseUrl>https://github.com/GotoFinal/ShareX-HDR/blob/master/LICENSE.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/GotoFinal/ShareX-HDR</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/GotoFinal/ShareX-HDR/issues</bugTrackerUrl>
+    <tags>sharex screenshot capture screen recording hdr admin</tags>
+    <summary>ShareX fork with HDR to SDR conversion support</summary>
+    <description>ShareX-HDR is a fork of [ShareX](https://github.com/ShareX/ShareX) that adds HDR to SDR conversion capabilities.
+
+ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. This fork adds support for HDR to SDR conversion based on contributions from the community.
+
+## Credits
+- ShareX-HDR is created and maintained by [GotoFinal](https://github.com/GotoFinal).
+- It is based on [ShareX](https://github.com/ShareX/ShareX) by the ShareX Team. All credit for the original application goes to them.
+
+## Features
+- HDR to SDR conversion
+- All original ShareX features including screenshot capture, screen recording, file uploading and more
+
+## Notes
+- This is a community fork and is provided as-is
+- This package is not maintained by GotoFinal or the ShareX Team
+- For support, please refer to the [GitHub repository](https://github.com/GotoFinal/ShareX-HDR)
+    </description>
+    <releaseNotes>https://github.com/GotoFinal/ShareX-HDR/releases/tag/v21.0.6-hdr</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
